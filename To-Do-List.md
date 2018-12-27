@@ -1,3 +1,7 @@
+
+
+- [ ] [Run all GAN Again]
+- [ ] [Utill of main program]
 - [ ] [AWS best][aws] 
 - [ ] [KDD Data-science course][kd]
 - [ ] [MS-course brief][ms]
